@@ -1,10 +1,10 @@
-# OpenEAI-FOC
+# Jinyuan-FOC
 
 Open-source integrated-joint hardware and field-oriented motor control for embodied AI.
 
 ![OpenEAI-FOC overview](assets/images/openeai-foc-overview.png)
 
-OpenEAI-FOC combines a compact motor and reducer, custom drive electronics, dual-encoder-ready sensing, HC32F448 firmware, and host-side control tools. The current firmware implements three-phase BLDC/PMSM field-oriented control (FOC), MA732 magnetic-encoder sampling, MIT-style position/velocity/feed-forward torque control, CAN and UART command interfaces, and flash-backed multi-turn output-position tracking.
+Jinyuan-FOC combines a compact motor and reducer, custom drive electronics, dual-encoder-ready sensing, HC32F448 firmware, and host-side control tools. The current firmware implements three-phase BLDC/PMSM field-oriented control (FOC), MA732 magnetic-encoder sampling, MIT-style position/velocity/feed-forward torque control, CAN and UART command interfaces, and flash-backed multi-turn output-position tracking.
 
 The project is a successor to the low-level actuator work developed for [OpenEAI-Arm](https://github.com/eai-yeslab/OpenEAI-Arm). It inherits the OpenEAI goal of reproducible embodied-AI hardware and is intended to serve as a joint-level hardware and control component for both OpenEAI-Arm and [OpenEAI-VLA](https://github.com/eai-yeslab/OpenEAI-VLA). Its longer-term direction is mechanics-aware force/torque FOC and joint optimization of learned VLA policies, actuator dynamics, sensing, and safety constraints.
 
