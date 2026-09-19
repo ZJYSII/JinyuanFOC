@@ -4,17 +4,13 @@ All photographs, CAD renderings, overview graphics, and demonstration videos are
 
 ## Images
 
-### Project overview
-
-![OpenEAI-FOC overview](images/openeai-foc-overview.png)
-
 ### Physical prototype
 
-![OpenEAI-FOC actuator prototype](images/actuator-prototype.jpg)
+![JinyuanFOC actuator prototype](images/actuator-prototype.jpg)
 
 ### Exploded assembly
 
-![OpenEAI-FOC actuator exploded assembly](images/actuator-exploded-view.png)
+![JinyuanFOC actuator exploded assembly](images/actuator-exploded-view.png)
 
 Additional CAD exports:
 
